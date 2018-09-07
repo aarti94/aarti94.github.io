@@ -107,15 +107,15 @@ h1 {
 
     position:absolute;
     margin-top: 95px;
-    margin-left: 50px;
-    height: 500px;
-    width: 500px;
+    margin-left: 35px;
+    height: 400px;
+    width: 400px;
 
 }
 
 .viz{
     margin-top: 30px;
-    margin-left: 250px;
+    margin-left: 200px;
     border-color:black;
     border-width:5px;
     border-style: solid;
@@ -131,7 +131,7 @@ h1 {
 
 .viz2{
     margin-top: 30px;
-    margin-left: 270px;
+    margin-left: 220px;
     border-color: #52371a;
     border-width: 20px;
     border-bottom-width: 50px;
@@ -149,7 +149,7 @@ h1 {
 .wort {
     position:absolute;
     margin-top: 250px;
-    margin-left: 290px;
+    margin-left: 240px;
     width: 350px;
     height: 200px;
     opacity: 0.8;
@@ -169,7 +169,7 @@ h1 {
 
 .kiln {
     margin-top: 80px;
-    margin-left: 250px;
+    margin-left: 200px;
     background-color: #3f2a14;
     height: 150px;
     width: 150px;
@@ -181,7 +181,7 @@ h1 {
 
 .mill {
     margin-top: 245px;
-    margin-left: 250px;
+    margin-left: 200px;
     background-color: #3f2a14;
     height: 150px;
     width: 150px;
@@ -218,7 +218,7 @@ h1 {
 
 .text{
     margin-top: 50px;
-    margin-left: 750px;
+    margin-left: 700px;
     height: 450px;
     width: 600px;
 }
