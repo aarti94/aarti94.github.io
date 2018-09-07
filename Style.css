@@ -121,8 +121,8 @@ h1 {
     border-style: solid;
     border-top-left-radius: 100px;
     border-top-right-radius: 100px;
-    height: 400px;
-    width: 400px;
+    height: 350px;
+    width: 350px;
     float: left;
     position: absolute;
     opacity: 100%;
@@ -138,8 +138,8 @@ h1 {
     border-style: solid;
     border-top-left-radius: 70px;
     border-top-right-radius: 70px;
-    height: 400px;
-    width: 350px;
+    height: 350px;
+    width: 300px;
     float: left;
     position: absolute;
     opacity: 100%;
@@ -148,19 +148,19 @@ h1 {
 
 .wort {
     position:absolute;
-    margin-top: 250px;
-    margin-left: 240px;
-    width: 350px;
-    height: 200px;
+    margin-top: 225px;
+    margin-left: 215px;
+    width: 300px;
+    height: 150px;
     opacity: 0.8;
     background-color: #cb8100;
 }
 
 .malt {
-    margin-top: 30px;
-    margin-left: 30px;
-    height: 400px;
-    width: 600px;
+    margin-top: 5px;
+    margin-left: 5px;
+    height: 350px;
+    width: 550px;
     float: left;
     position: absolute;
     opacity: 100%;
@@ -168,11 +168,11 @@ h1 {
 }
 
 .kiln {
-    margin-top: 80px;
-    margin-left: 200px;
+    margin-top: 55px;
+    margin-left: 175px;
     background-color: #3f2a14;
-    height: 150px;
-    width: 150px;
+    height: 100px;
+    width: 100px;
     float: left;
     position: absolute;
     opacity: 100%;
@@ -180,11 +180,11 @@ h1 {
 }
 
 .mill {
-    margin-top: 245px;
-    margin-left: 200px;
+    margin-top: 220px;
+    margin-left: 175px;
     background-color: #3f2a14;
-    height: 150px;
-    width: 150px;
+    height: 100px;
+    width: 100px;
     float: left;
     position: absolute;
     opacity: 100%;
@@ -274,50 +274,50 @@ h1 {
 
 .partdiv1{
     position:absolute;
-    margin-top: 130px;
-    margin-left: 250px;
+    margin-top: 105px;
+    margin-left: 175px;
     opacity: 0;
 
 }
 .partdiv2{
-    position:absolute;
-    margin-top: 130px;
-    margin-left: 250px;
+    position: absolute;
+    margin-top: 105px;
+    margin-left: 175px;
 
 }
 
 .partdiv3{
     position:absolute;
-    margin-top: 280px;
-    margin-left: 250px;
+    margin-top: 255px;
+    margin-left: 175px;
     opacity: 0;
 
 }
 
 .partdiv4{
     position:absolute;
-    margin-top: 280px;
-    margin-left: 250px;
+    margin-top: 255px;
+    margin-left: 225px;
 
 }
 
 .partdiv5{
     position:absolute;
-    margin-top: 280px;
-    margin-left: 250px;
+    margin-top: 255px;
+    margin-left: 225px;
 
 }
 
 .partdiv6{
     position: absolute;
-    margin-top: 250px;
-    margin-left: 270px;
+    margin-top: 225px;
+    margin-left: 245px;
 }
 
 .partdiv7{
     position:absolute;
-    margin-top: 250px;
-    margin-left: 270px;
+    margin-top: 225px;
+    margin-left: 245px;
     opacity: 0;
 
 }
