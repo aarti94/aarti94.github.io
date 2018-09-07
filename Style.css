@@ -2,7 +2,7 @@
 
 body {
     margin: 0;
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Dosis', sans-serif;
 }
 
 h1 {
@@ -247,12 +247,12 @@ h1 {
 }
 
 .text p {
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: 'Dosis', sans-serif;
     font-size: 19px;
 }
 
 .text3 p {
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: 'Dosis', sans-serif;
     font-size: 19px;
 }
 
@@ -375,7 +375,7 @@ h1 {
 
 svg{
     stroke: #000;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: 'Dosis', sans-serif;
 }
 
 .axis {
