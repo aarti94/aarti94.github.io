@@ -2,7 +2,7 @@
 
 body {
     margin: 0;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
@@ -246,12 +246,12 @@ h1 {
 }
 
 .text p {
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 19px;
 }
 
 .text3 p {
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 19px;
 }
 
@@ -374,7 +374,7 @@ h1 {
 
 svg{
     stroke: #000;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .axis {
