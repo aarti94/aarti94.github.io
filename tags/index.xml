@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Aarti Swaminathan</title>
+    <link>https://aarti94.github.io/tags/</link>
+      <atom:link href="https://aarti94.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aarti94.github.io/img/profilepic</url>
+      <title>Tags</title>
+      <link>https://aarti94.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Context of use</title>
+      <link>https://aarti94.github.io/tags/context-of-use/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/tags/context-of-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetics</title>
+      <link>https://aarti94.github.io/tags/genetics/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/tags/genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interviews</title>
+      <link>https://aarti94.github.io/tags/interviews/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/tags/interviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online scientific tools</title>
+      <link>https://aarti94.github.io/tags/online-scientific-tools/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/tags/online-scientific-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey</title>
+      <link>https://aarti94.github.io/tags/survey/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/tags/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usability</title>
+      <link>https://aarti94.github.io/tags/usability/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/tags/usability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Aarti Swaminathan</title>
+    <link>https://aarti94.github.io/project/</link>
+      <atom:link href="https://aarti94.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aarti94.github.io/img/profilepic</url>
+      <title>Projects</title>
+      <link>https://aarti94.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>UW Medicine-Usability Study for AnalyzeMyVariant</title>
+      <link>https://aarti94.github.io/project/analyzemyvariant/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/project/analyzemyvariant/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+&lt;p&gt;AnalyzeMyVariant is an online tool to perform cosegregation analysis of genetic
+pedigree data. For my Master’s Thesis project, I conducted a study to assess
+the usability perceptions of potential users (genetic counselors and
+statistical geneticists).&lt;/p&gt;
+&lt;h1 id=&#34;goal&#34;&gt;Goal&lt;/h1&gt;
+&lt;p&gt;To assess usability perceptions of AnalyzeMyVariant users.&lt;/p&gt;
+&lt;h1 id=&#34;industry--audience&#34;&gt;Industry &amp;amp; Audience&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Industry&lt;/em&gt;: Website design; genetics and statistics; usability&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Audience&lt;/em&gt;: Genetic counselors and statistical geneticists&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;constraints&#34;&gt;Constraints&lt;/h1&gt;
+&lt;p&gt;None&lt;/p&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;My Role&lt;/h1&gt;
+&lt;p&gt;This was an individual thesis project; I performed all the tasks outlined below.&lt;/p&gt;
+&lt;h1 id=&#34;process&#34;&gt;Process&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Conducted literature&lt;/strong&gt; review of models of online trust and satisfaction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Selected constructs&lt;/strong&gt; and framed them into a heirarchy to evaluate usability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Created survey questions&lt;/strong&gt;, sourced from literature and adapted to this specific
+platform to assess each construct.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Built the survey&lt;/strong&gt; in REDCap and &lt;strong&gt;conducted pilot tests&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Identified potential participant sources&lt;/strong&gt; and drafted recruitment materials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conducted follow-up contextual interviews&lt;/strong&gt; with users to better understand context of use
+and explore usability issues.&lt;/li&gt;
+&lt;li&gt;Analysed data using &lt;strong&gt;descriptive statistics&lt;/strong&gt; and &lt;strong&gt;qualitative analysis&lt;/strong&gt; in ATLAS.ti.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Presented two potential avenues for redesign&lt;/strong&gt; to client, each targeting a different user base.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;key-insights&#34;&gt;Key Insights&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Even though different user groups may have similar levels of familiarity with
+the concept and may use the tool for the same general purpose, differing
+contexts of use may drastically affect perceptions of usability and desired
+changes to the design.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this project, genetic counselors and statistical geneticists were both
+target users, as they understood the value of performing cosegregation analysis
+on their data and would be interested in using such a tool. Ultimately,
+however, their differing clinical vs. research contexts and other features of
+their professions led them to want completely different presentations of
+results which could not be reconciled. I finally ended up proposing two
+potential options for redesign to target the differing needs of these user
+groups.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UW Design Study-Sleep Data for Citizen Science</title>
+      <link>https://aarti94.github.io/project/citizenscience/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/project/citizenscience/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+&lt;p&gt;Tracking college students’ sleep patterns can help improve individual
+behavioral choices and allows the opportunity to make large scale policy
+changes to support students’ needs. I and a partner worked to research, design,
+prototype and evaluate an app-based data collection tool for students to
+self-report their sleep patterns.&lt;/p&gt;
+&lt;h1 id=&#34;goal&#34;&gt;Goal&lt;/h1&gt;
+&lt;p&gt;To research, design, and evaluate an app-based data collection tool to let
+students record sleep data, and provide a means to collect crowd-sourced data
+for a citizen science project.&lt;/p&gt;
+&lt;h1 id=&#34;industry--audience&#34;&gt;Industry &amp;amp; Audience&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Industry&lt;/em&gt;: IT; Health management; citizen science&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Audience&lt;/em&gt;: Students at the University of Washington&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;constraints&#34;&gt;Constraints&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;We had roughly 8 weeks to do this in, since it was part of required coursework.&lt;/li&gt;
+&lt;li&gt;We had no prior knowledge of citizen science or sleep-based studies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;My Role&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;One in a team of two.&lt;/li&gt;
+&lt;li&gt;Conducted half the contextual inquiries&lt;/li&gt;
+&lt;li&gt;Helped design the initial layout, and gave design suggestion on first set of prototypes&lt;/li&gt;
+&lt;li&gt;Designed and prototyped the layout and interactions for final interactive prototype (in Figma and Adobe XD).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;process&#34;&gt;Process&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Identified and &lt;strong&gt;researched the design space&lt;/strong&gt; of student sleep, potential health effects of lack of sleep, and various other studies designed to collect this type of data.&lt;/li&gt;
+&lt;li&gt;Conducted &lt;strong&gt;3 contextual inquiries&lt;/strong&gt; with students about their use of sleep trackers, their planning of their schedule, and their use of other apps for health tracking.&lt;/li&gt;
+&lt;li&gt;Used extensive &lt;strong&gt;literature review&lt;/strong&gt; and contextual inquiries, and &lt;strong&gt;designed initial prototype in Balsamiq&lt;/strong&gt; with validated measures and data collection formats from previous studies.&lt;/li&gt;
+&lt;li&gt;Conducted &lt;strong&gt;longitudinal quantitative evaluations&lt;/strong&gt; with prospective users to evaluate whether they remembered to submit data each day (using a low-fidelity paper prototype).&lt;/li&gt;
+&lt;li&gt;Conducted a &lt;strong&gt;focus group session&lt;/strong&gt; with other users, to gauge opinions of different design choices and motivational features.&lt;/li&gt;
+&lt;li&gt;Modified designs and &lt;strong&gt;created high-fidelity, interactive prototypes&lt;/strong&gt; in Figma and Adobe XD.&lt;/li&gt;
+&lt;li&gt;Presented entire design project and offered suggestions for future development.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;See the Figma prototype &lt;a href=&#34;https://www.figma.com/proto/Q4SHnpsSaqS7V3lSDjNdfXWw/UW-Sleep?scaling=contain&amp;amp;redirected=1&amp;amp;node-id=1%3A5&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;key-insights&#34;&gt;Key Insights&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When designing a tool to collect data everyday, make everything as automatic as possible.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In an attempt to keep the tool as simple and low-tech as possible, the initial
+design to collect sleep data required students to tap a timer ‘on’ as they were
+about to go to bed, and ‘off’ as soon as they woke up. But from longitudinal
+user evaluations conducted with low-fidelity prototypes, we found users would
+almost never remember to do both. Our revamped design recorded periods of phone
+inactivity and asked users later in the day whether the recorded period was
+correct.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UW Libraries-Ethnography of Active Learning</title>
+      <link>https://aarti94.github.io/project/activelearning/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/project/activelearning/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+&lt;p&gt;Active Learning Classrooms (ALCs) have the potential to revolutionize the way
+classes are taught in a variety of disciplines. While they have been shown to
+be effective in promoting better conceptual understanding and retention of
+information, it is important to understand how the designs of these classrooms
+can affect teaching and learning. I conducted an 8-week fieldwork study within
+the Active Learning Classrooms at Odegaard Library to assess the user
+experiences of students and instructors using them.&lt;/p&gt;
+&lt;h1 id=&#34;goal&#34;&gt;Goal&lt;/h1&gt;
+&lt;p&gt;To use fieldwork and ethnographic methods to observe and interview students and
+instructors using the space.&lt;/p&gt;
+&lt;p&gt;To understand students’ and instructors’ use of the space, and identify
+challenges and opportunities for future improvement.&lt;/p&gt;
+&lt;h1 id=&#34;industry--audience&#34;&gt;Industry &amp;amp; Audience&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Industry&lt;/em&gt;: IT; classroom design; user experience&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Audience&lt;/em&gt;: Instructors who conducted classes; students who attended classes and used
+the space for informal study after hours&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;constraints&#34;&gt;Constraints&lt;/h1&gt;
+&lt;p&gt;Fieldwork could only be conducted for 8 weeks, the duration of the academic quarter.&lt;/p&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;My Role&lt;/h1&gt;
+&lt;p&gt;This was an individual project; I did everything.&lt;/p&gt;
+&lt;h2 id=&#34;process&#34;&gt;Process&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Acquired background information&lt;/strong&gt; for adminstration about use and features of the space.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conducted hour-long observations for 8 weeks&lt;/strong&gt; during a regular class and informal study hours.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wrote up extensive fieldwork notes&lt;/strong&gt; and &lt;strong&gt;created visual maps&lt;/strong&gt; of the room layout.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conducted multiple interviews&lt;/strong&gt; with instructor and students.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Qualitatively analyzed fieldnotes and interview transcripts&lt;/strong&gt; through a process of open coding,
+creation of high-level thematic categories and follow-up deductive coding.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Identified areas of challenge and potential improvement&lt;/strong&gt; in the future use of the space as a formal classroom and informal study space.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Provided insight about potential ideas for redesign&lt;/strong&gt; of the library website for the Active Learning Classroom space.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;key-insights&#34;&gt;Key Insights&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Having great tools in a learning space is of no use unless users know they&#39;re there.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Most of the students who used the ALCs for informal study were unfamiliar with
+the great features of the space, like the ability to connect laptops to the
+large TV screens at each table, or the ability to use the walls as whiteboards
+to draw on as they studied. In my final report, I proposed adding simple
+stickers somewhere visible at each table, directing students to the library
+website, where explanations of the space’s features were already available.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Features can sometimes be used for purposes other than what they were
+intended for, and that’s not necessarily a bad thing.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;360-degree cameras installed in the classroom were originally intended to be
+used only for video-conferencing and remote learning purposes. However,
+instructors also used them to simply zoom in on themselves as they lectured or
+drew on the whiteboard, so that students at the opposite ends of the large room
+could see them the instructor on the closest TV screen. In a space designed
+with round tables, where students faced each other and the closest TV screen
+rather than the front of the room, this was a great idea to help increase
+visibility.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seattle Children&#39;s Hospital-iPad Service Design for Adolescent Care</title>
+      <link>https://aarti94.github.io/project/seattlehospital/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/project/seattlehospital/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+&lt;p&gt;In addition to treating adolescents, doctors at the Division of Adolescent
+Medicine in Seattle Children’s Hospital created web-based content to guide
+parents in dealing with adolescent issues. I was part of a four-person student
+team that helped them come up with a method to make the content available to
+parents in the waiting room, via iPads.&lt;/p&gt;
+&lt;h1 id=&#34;goal&#34;&gt;Goal&lt;/h1&gt;
+&lt;p&gt;To provide information for parents of teens about common adolescent health
+problems and useful resources to deal with them.&lt;/p&gt;
+&lt;h1 id=&#34;industry--audience&#34;&gt;Industry &amp;amp; Audience&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Industry&lt;/em&gt;: Health management; service design&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Audience&lt;/em&gt;: Parents in the Adolescent Medicine Clinic&#39;s waiting room&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;constraints&#34;&gt;Constraints&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Budget constraints, due to a lack of funding for this implementation.&lt;/li&gt;
+&lt;li&gt;Only 5 iPads available.&lt;/li&gt;
+&lt;li&gt;Only a few people to manage the implementation: design had to be of restricted burden to stakeholders.&lt;/li&gt;
+&lt;li&gt;Time constraint: 8 weeks (part of coursework)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;My Role&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;One in a team of four.&lt;/li&gt;
+&lt;li&gt;Led one of the initial interviews; provided support for the rest.&lt;/li&gt;
+&lt;li&gt;Created one of the personas and participated in brainstorming activities.&lt;/li&gt;
+&lt;li&gt;Independently brainstormed and developed 3 prototypes for workflow of iPad acquisition and use by parents (team members prototyped other aspects like security and iPad functionality).&lt;/li&gt;
+&lt;li&gt;Consolidated different features into final design with team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;process&#34;&gt;Process&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Acquired background understanding of design space&lt;/strong&gt; from key members of clinic team.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Toured the space&lt;/strong&gt;, and &lt;strong&gt;conducted longer interviews with key stakeholders&lt;/strong&gt; such as the the department head, content developer, the administrative manager, and front desk manager.&lt;/li&gt;
+&lt;li&gt;Created a requirements analysis document and &lt;strong&gt;identified design goals&lt;/strong&gt;.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Created personas&lt;/strong&gt; and &lt;strong&gt;models&lt;/strong&gt; to understand the design space.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create multiple design ideas for each aspect&lt;/strong&gt; of the implementation: iPad functionality, security options, workflow, and evaluation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Selected two holistic design ideas&lt;/strong&gt; to present to the client.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Presented our findings and design ideas to the stakeholders&lt;/strong&gt; in the Division of Adolescent Medicine, along with our scheme for evaluating usability, once the implementation was in place.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;key-insights&#34;&gt;Key Insights&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Use of models, like use case and cultural models, can really help to define the
+design constraints and understand limitations.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;While the concept of this design (to deliver adolescent healthcare information
+and tips to parents) would be of great use to the intended users, this project
+did not have a lot of funding, tools or personnel available to dedicate to the
+delivery of this service. By using interviews to build up various models of the
+space, we were able to understand these limitations and design low-maintenance
+designs around these considerations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

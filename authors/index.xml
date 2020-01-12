@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Aarti Swaminathan</title>
+    <link>https://aarti94.github.io/authors/</link>
+      <atom:link href="https://aarti94.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aarti94.github.io/img/profilepic</url>
+      <title>Authors</title>
+      <link>https://aarti94.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Aarti Swaminathan</title>
+      <link>https://aarti94.github.io/authors/aarti-swaminathan/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/authors/aarti-swaminathan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annie T. Chen</title>
+      <link>https://aarti94.github.io/authors/annie-t.-chen/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/authors/annie-t.-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian H. Shirts</title>
+      <link>https://aarti94.github.io/authors/brian-h.-shirts/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/authors/brian-h.-shirts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily F. Law</title>
+      <link>https://aarti94.github.io/authors/emily-f.-law/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/authors/emily-f.-law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole M. Alberts</title>
+      <link>https://aarti94.github.io/authors/nicole-m.-alberts/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/authors/nicole-m.-alberts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tonya M. Palermo</title>
+      <link>https://aarti94.github.io/authors/tonya-m.-palermo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/authors/tonya-m.-palermo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William R. Kearns</title>
+      <link>https://aarti94.github.io/authors/william-r.-kearns/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/authors/william-r.-kearns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aarti94.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aarti94.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;In healthcare, treatments that are not perfectly tailored to patients can
+detrimentally affect their health and lives.&lt;/p&gt;
+&lt;p&gt;Coming from consumer health and biotechnology, I bring that same level of
+stakes to my user research. No matter what the product, healthy users are
+dependent on healthy design. If a product does not satisfy users’ requirements,
+then their need remains unfulfilled, and that’s akin to a sickness untreated.&lt;/p&gt;
+&lt;p&gt;I believe in digging deep, understanding the core motivations of users, and
+exploring what drives their use of products/services. By using my research,
+front-end development and design skills, in addition to leveraging my
+background as an engineer and informatician, I want to form a bridge between
+users, engineers, and product managers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
